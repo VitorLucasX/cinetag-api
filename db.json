@@ -1,0 +1,52 @@
+{ 
+    "videos": [
+  {
+      "id": 1,
+      "titulo": "Jogos vorazes",
+      "capa": "./imagens-card/jogos-vorazes.png",
+      "link": "https://www.youtube.com/embed/Zw3QtH64Fxc"
+  },
+  {
+      "id": 2,
+      "titulo": "Oeste",
+      "capa": "./imagens-card/oeste.png",
+      "link": "https://www.youtube.com/embed/rJqOKGLH_mw"
+  },
+  {
+      "id": 3,
+      "titulo": "Perdão",
+      "capa": "./imagens-card/perdao.png",
+      "link": "https://www.youtube.com/embed/wTOHC4arz6w"
+  },
+  {
+      "id": 4,
+      "titulo": "Willy wonka",
+      "capa": "./imagens-card/wonka.png",
+      "link": "https://www.youtube.com/embed/5a-qYjXNOtw"
+  },
+  {
+      "id": 5,
+      "titulo": "Fuga das galinhas",
+      "capa": "./imagens-card/fuga-das-galinhas.png",
+      "link": "https://www.youtube.com/embed/oxYQb-WxPPk"
+  },
+  {
+      "id": 6,
+      "titulo": "Ninguem",
+      "capa": "./imagens-card/ninguem.png",
+      "link": "https://www.youtube.com/embed/CPK5_qHJOns"
+  },
+  {
+      "id": 7,
+      "titulo": "Lamborghini",
+      "capa": "./imagens-card/lamborghini.png",
+      "link": "https://www.youtube.com/embed/YYciRvftgRo"
+  },
+  {
+      "id": 8,
+      "titulo": "Jerusalem",
+      "capa": "./imagens-card/jerusalem.png",
+      "link": "https://www.youtube.com/embed/HdF_VqwVvU0"
+  }
+    ]
+}
